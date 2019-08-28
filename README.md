@@ -25,7 +25,7 @@
 
 #### 时间结构
 
-指做笔记的时间顺序，按照一般习惯，做快速笔记时逻辑还不清楚，需要进一步整理，最后需要串联成容易回顾的体系。所以我把它们分为三轮，开始都用同一[笔记模板](onenote:#✒快速笔记模板&section-id={53BAD259-77BB-4DD7-997C-142CFD2468B6}&page-id={9B6C43DE-0DB0-4CED-B44D-6FDB1C841D25}&end&base-path=https://d.docs.live.net/d2268c2c055e4f5e/Documents/搞点规划/笔记系统.one)，一轮轮加工。
+指做笔记的时间顺序，按照一般习惯，做快速笔记时逻辑还不清楚，需要进一步整理，最后需要串联成容易回顾的体系。所以我把它们分为三轮，开始都用同一[笔记模板](https://github.com/JinhangZhu/notes-system/blob/master/%E5%BF%AB%E9%80%9F%E7%AC%94%E8%AE%B0%E6%A8%A1%E6%9D%BF.md)，一轮轮加工。
 
 ##### 第一轮笔记：快速笔记
 
@@ -137,7 +137,7 @@
 
 所以这款软件适用于第**二**/三轮笔记。
 
-#### draw.io
+#### [draw.io](draw.io)
 
 - 画flowchart等，有大量模板。
 - 浏览器中在线使用。
@@ -190,9 +190,7 @@
 
 算在二轮中。
 
-| <span style="color:red;">重点</span> | <span style="color:blue;">次重点</span> | <font color=white><span style="color:white;">定义</span></font> | <span style="color:green;">个人理解</span> | <span style="color:purple;">例题</span> |
-| ------------------------------------ | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------ | --------------------------------------- |
-| red                                  | blue                                    | white                                                        | green                                      | purple                                  |
+![字体颜色](https://github.com/JinhangZhu/notes-system/blob/master/images/colorScs.png)
 
 ```css
 用以下代码实现字体颜色，
