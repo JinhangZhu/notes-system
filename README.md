@@ -67,11 +67,11 @@
 
 ##### 笔记/日记/经验总结
 
-都采用笔记系统的格式。
+都采用笔记系统的[模板]([https://github.com/JinhangZhu/notes-system/blob/master/%E5%BF%AB%E9%80%9F%E7%AC%94%E8%AE%B0%E6%A8%A1%E6%9D%BF.md](https://github.com/JinhangZhu/notes-system/blob/master/快速笔记模板.md))。
 
 ##### idea
 
-记录突然想到的idea，目前没有机会实现的目标等，采用[idea模板](onenote:#💡idea模板&section-id={53BAD259-77BB-4DD7-997C-142CFD2468B6}&page-id={B9B6BB80-6B66-49C6-B0D5-07B0F68268E2}&end&base-path=https://d.docs.live.net/d2268c2c055e4f5e/Documents/搞点规划/笔记系统.one)。
+记录突然想到的idea，目前没有机会实现的目标等，采用[idea模板]([https://github.com/JinhangZhu/notes-system/blob/master/idea%E6%A8%A1%E6%9D%BF.md](https://github.com/JinhangZhu/notes-system/blob/master/idea模板.md))。
 
 ## 笔记记录方法评价
 
@@ -85,7 +85,7 @@
 - **对公式很不友好。**
 - 不支持Markdown。
 
-![OneNoteScs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\OneNoteScs.jpg.png)
+![OneNoteScs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/OneNoteScs.jpg.png)
 
 这么说吧，**OneNote最适合在第一轮学习**中使用，将课堂讲解，所读书籍，所看讲义/课件最先记录下来。其次**也适合二次整理**，将散乱的第一轮笔记整理出自我归纳的二轮笔记。
 
@@ -107,19 +107,19 @@
 - 支持拖放图片。
 - 可直接导出PDF或者图片格式。
 
-![TyporaScs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\TyporaScs.jpg.png)
+![TyporaScs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/TyporaScs.jpg.png)
 
 需要特定语法来使用的Typora，虽然已经在排版上节省了很多时间，但是不适合快速笔记（一轮笔记），**最适合第三轮笔记**，生成自我规划好的，有成熟逻辑的“书籍”。
 
 #### Visual Studio Code + Markdown
 
-![VSCodeScs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\VSCodeScs.jpg.png)
+![VSCodeScs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/VSCodeScs.jpg.png)
 
 - 黑色主题+Code是我心中的“白月光”。
 - 也支持实时显示，但是新开窗口侧栏显示，转换视线稍微分神。
 - 对公式的显示有点难看：
 
-![公式Scs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\公式Scs.jpg.png)
+![公式Scs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/%E5%85%AC%E5%BC%8FScs.jpg.png)
 
 同样对Markdown进行编辑排版，还是**Typora操作更得我心，第一因为自动补全，第二因为实时显示，第三因为查看Reference很方便**。
 
@@ -128,7 +128,7 @@
 - 创建**思维导图**，操作简捷。
 - 试用版目前存在水印，不过问题不大，其他局限目前还不清楚，等待摸索。
 
-![XMindZENScs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\XMindZENScs.jpg.png)
+![XMindZENScs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/XMindZENScs.jpg.png)
 
 思维导图对于做笔记有两个用处：
 
@@ -143,7 +143,7 @@
 - 浏览器中在线使用。
 - 功能齐全且免费。
 
-![drawioScs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\drawioScs.jpg.png)
+![drawioScs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/drawioScs.jpg.png)
 
 适用于第**二**/三轮笔记。
 
@@ -159,7 +159,7 @@
 
 #### MarginNote
 
-![MarginNoteScs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\MarginNoteScs.jpg.png)
+![MarginNoteScs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/MarginNoteScs.jpg.png)
 
 - 知识管理的极佳应用。见知乎回答：
 
@@ -176,7 +176,7 @@
 - 结合电容笔进行**快速备注**。
 - 拍照导入快捷。
 
-![NotabilityScs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\NotabilityScs.jpg.png)
+![NotabilityScs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/NotabilityScs.jpg.png)
 
 非常适合**提前下载课**件，然后上课时实时备注。
 
@@ -190,9 +190,16 @@
 
 算在二轮中。
 
-| <font color=red>重点</font> | <font color=blue>次重点</font> | <font color=white>定义</font> | <font color=green>个人理解</font> | <font color=purple>例题</font> |
-| --------------------------- | ------------------------------ | ----------------------------- | --------------------------------- | ------------------------------ |
-| red                         | blue                           | white                         | green                             | purple                         |
+| <span style="color:red;">重点</span> | <span style="color:blue;">次重点</span> | <font color=white><span style="color:white;">定义</span></font> | <span style="color:green;">个人理解</span> | <span style="color:purple;">例题</span> |
+| ------------------------------------ | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------ | --------------------------------------- |
+| red                                  | blue                                    | white                                                        | green                                      | purple                                  |
+
+```css
+用以下代码实现字体颜色，
+<span style="color:red;">重点</span>
+比下面的font标签更好，
+<font color=red>重点</font>
+```
 
 ### emoji标记法
 
@@ -200,7 +207,7 @@
 
 💬注：按住Ctrl+Shift+B，可调出emoji表情栏。
 
- ![emojiScs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\emojiScs.jpg.png)
+ ![emojiScs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/emojiScs.jpg.png)
 
 👍觉得很赞
 
@@ -232,7 +239,7 @@
 
 直接利用OneNote自带的功能。
 
-![TagsScs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\TagsScs.jpg.png)
+![TagsScs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/TagsScs.jpg.png)
 
 ## 其他小知识
 
@@ -240,14 +247,14 @@
 
 每新建一个section，建立新一page，制作模板，将该页set as default template，就将模板适用于整个section。
 
-![templateScs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\templateScs.jpg.png)
+![templateScs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/templateScs.jpg.png)
 
 ### 插入链接
 
 给一段文字插入另一文字段或者page或者section甚至notebook的链接。先右键要提取链接的对象，copy link to xxx,
 
-![copylinkScs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\copylinkScs.jpg.png)
+![copylinkScs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/copylinkScs.jpg.png)
 
 然后选取文字段，Ctrl+K，粘贴链接。
 
-![pastelinkScs.jpg](C:\Users\jinha\Documents\GitHub\notes-system\images\pastelinkScs.jpg.png)
+![pastelinkScs.jpg](https://github.com/JinhangZhu/notes-system/blob/master/images/pastelinkScs.jpg.png)
